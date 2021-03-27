@@ -15,3 +15,10 @@ dweb-friends.txt
 QmXyY9uPUPtTAYBowhWPQAcZduT3m4951zfPZgn9xH1LM1
 QmaPWLcnJST1T8FYbxim5zUTUU962W9e4psD2MPZBYKxVi
 ```
+
+Discussion
+============
+
+Should the list be directly usable to humans?  
+eg. be "fully qualitifed" and copy-pasteable like ipfs://ipfs/QmaPWLcnJST1T8FYbxim5zUTUU962W9e4psD2MPZBYKxVi/index.html
+
