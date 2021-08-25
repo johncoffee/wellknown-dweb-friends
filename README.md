@@ -1,24 +1,26 @@
 # wellknown-dweb-friends
 
 The idea here is to list content hashes/[CIDs](https://docs.ipfs.io/concepts/content-addressing/)
-of friends web sites, so all friends in the network would help out replicating each others sites.
+of friends' web pages, so all friends in the network can help out pinning each others stuff.
 
+## Version 0 assumptions
+
+We're using Pinata for pinning.
 
 ## Format
 
 `.well-known/dweb-friends.txt`
 
-Version 1 is a simple list of CIDs delimited by a linebreak.
 
 dweb-friends.txt
 ```text/plain
-QmXyY9uPUPtTAYBowhWPQAcZduT3m4951zfPZgn9xH1LM1
-QmaPWLcnJST1T8FYbxim5zUTUU962W9e4psD2MPZBYKxVi
+docs.ipfs.io
+zerosleep.dk
 ```
 
 Discussion
 ============
 
-Should the list be directly usable to humans?  
-eg. be "fully qualitifed" and copy-pasteable like ipfs://ipfs/QmaPWLcnJST1T8FYbxim5zUTUU962W9e4psD2MPZBYKxVi/index.html
-
+Next version features:
+- [ ] Should it support CIDs also?
+- [ ] What about fully qualified dweb links `/ipfs/Qm123XyZ`?
