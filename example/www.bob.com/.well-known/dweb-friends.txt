@@ -1,0 +1,3 @@
+# Bobs friends
+docs.ipfs.io
+zerosleep.dk
