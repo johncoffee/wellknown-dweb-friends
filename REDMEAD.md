@@ -1,7 +1,12 @@
 # wellknown-dweb-friends
 
-The idea here is to list content hashes/[CIDs](https://docs.ipfs.io/concepts/content-addressing/)
-of friends' web pages, so all friends in the network can help out pinning each others stuff.
+Sharing is caring!
+
+`wellknown-dweb-friends` is a proposal for something like a social relations between web sites.      
+
+The idea here is to list 'content hashes'/[CIDs](https://docs.ipfs.io/concepts/content-addressing/)
+of friends' web pages,
+so all friends in the network can help out pinning each others stuff.
 
 ## Version 0 assumptions
 
