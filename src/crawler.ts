@@ -49,7 +49,7 @@ async function main (entryHost: string) {
     pinata.pinByHash = (h) => new Promise(res => res(console.log("would have pinned "+h) || {}))
   }
 
-  hashHost.push(...myFriendsCIDs.map((h):[string,string] => [h, '']))
+  hashHost.push(...myFriendsCIDs.map((h):[string,string] => [h, 'no host']))
   console.log('Pinning to Pinata')
   console.log(hashHost.map(h => h[0] + `${h[1] && ` (${h[1]})`}`))
 
