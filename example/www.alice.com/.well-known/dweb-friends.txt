@@ -1,5 +1,5 @@
 # alices friends
 zerosleep.dk
 stems.320colab.space
-QmaVXeZXVTCYdYHhDiMkJjiLB7VGchLP2Gp14rD2jq565K
+dweb://ipfs/QmaVXeZXVTCYdYHhDiMkJjiLB7VGchLP2Gp14rD2jq565K
 docs.ipfs.io
